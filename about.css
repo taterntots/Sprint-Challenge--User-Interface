@@ -84,7 +84,7 @@ nav a {
 }
 
 .intro-image {
-    width: 100%;
+    /* width: 100%; */
     margin: 0% 5% 3% 5%;
 }
 
@@ -136,7 +136,7 @@ nav a {
     justify-content: center;
 }
 
-/* START My code for the Boc Color CSS */
+/* START My code for the Navigation CSS */
 
 .middle-content .boxes .box1 {
     background-color: teal;
@@ -178,7 +178,7 @@ nav a {
     background-color: dodgerblue;
 }
 
-/* END My code for the Box Color CSS */
+/* END My code for the Navigation CSS */
 
 .bottom-content {
     display: flex;
@@ -211,11 +211,4 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
-}
-
-
-/* ABOUT PAGE CODE */
-
-.containerAboutPage {
-    
 }
