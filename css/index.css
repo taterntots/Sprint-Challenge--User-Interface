@@ -217,5 +217,7 @@ footer nav a {
 /* ABOUT PAGE CODE */
 
 .containerAboutPage {
-    
+    border-bottom: 1px dashed black;
+    padding: 0% 3% 2% 3%;
+    margin: 0% 5% 3% 5%;
 }
