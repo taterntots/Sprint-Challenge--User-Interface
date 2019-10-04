@@ -66,6 +66,30 @@ p {
     line-height: 1.4;
 }
 
+/* START My code for the Navigation CSS */
+
+.navigation {
+}
+
+nav {
+	display: flex;
+	justify-content: space-between;
+    align-items: baseline;
+    margin: 2% 5% 4% 5%;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+.intro-image {
+    width: 100%;
+    margin: 0% 5% 3% 5%;
+}
+
+/* END My code for the Navigation CSS */
+
 .container {
     width: 800px;
     margin: 0 auto;
@@ -111,6 +135,14 @@ p {
     align-items: center;
     justify-content: center;
 }
+
+/* START My code for the Navigation CSS */
+
+.middlecontent .boxes .box {
+    background-color: red;
+}
+
+/* END My code for the Navigation CSS */
 
 .bottom-content {
     display: flex;
